@@ -5,6 +5,10 @@
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> My name is Jun.👋 </h2>  
     <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> I'm currently learning developing. </div> 
 </div>
+<div style="text-align: left;"> 
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> About me. </h2>  
+    <div style="font-weight: 700; font-size: 15px; text-align: left; color: #282d33;"> <li> 가치관 - 다양한 시각으로 차별화된 서비스를 제공하자 </div> 
+</div>
 <div style="text-align: left;">
     <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🛠️ Tech Stacks </h2> <br> 
     <div style="text-align: left;"> 
